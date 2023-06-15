@@ -1,0 +1,55 @@
+<body>
+
+    <section>
+
+        <!--- navigation --->
+
+        <nav>
+
+            <!--- logo --->
+
+            <a href="#" class="logo">Portfolio Tutorial</a>
+
+            <!--- menu --->
+
+            <ul>
+
+                <li><a href="#" class="active">Home</a></li>
+
+                <li><a href="#">Services</a></li>
+
+                <li><a href="#">Testimonials</a></li>
+
+                <li><a href="#">Contact</a></li>
+
+            </ul>
+
+        </nav>
+
+ 
+
+        <!--- text --->
+
+        <div class="text-container">
+
+            <p>Hello,</p>
+
+            <p>I&#8217;M NIDA</p>
+
+            <p>SEO Technical Writer & Developer</p>
+
+            <p>An aquarius girl who loves music, watching movies and
+
+            <br>of course writing.</p>
+
+            <button class="hire-btn">Hire me</button>
+
+            <button class="down-cv">Download CV</button>
+
+        </div>
+
+        <!-- model -->
+
+        <img alt="model" class="model" src="images/ilustrasi.jpg">  
+
+    </section>
